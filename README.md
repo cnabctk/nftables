@@ -1,4 +1,4 @@
- nftables 端口转发管理工具 v1.1
+ nftables 端口转发管理工具 
 # 交互式管理 DNAT 端口转发规则
   
     bash <(curl -sL https://raw.githubusercontent.com/cnabctk/nftables/refs/heads/main/install.sh )
